@@ -13,3 +13,5 @@ nowe zadanie 2
 dodane nowe info
 
 Calkiem nowa informacja
+
+kolejna zmiana inteliJ
