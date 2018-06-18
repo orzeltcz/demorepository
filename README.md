@@ -1,3 +1,5 @@
+Dodanie nowego kodu do pull request
+---------------------
 
 Kolejne dodanie tekstu w branchu A
 Nowe dodanie tekstu w branchu A
