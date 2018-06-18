@@ -1,4 +1,7 @@
+Dodanie nowego kodu do pull request
+---------------------
 Zmiana w master
+
 
 Kolejne dodanie tekstu w branchu A
 Nowe dodanie tekstu w branchu A
